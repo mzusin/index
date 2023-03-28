@@ -13,20 +13,20 @@ sign-off your patch as an indication of agreement.
       >     and the commercial license described at https://github.com/mzusin/index/blob/main/LICENSE.md#commercial-license; or
 >
 >  2. The contribution is based upon previous work that, to the best
-      >     of my knowledge, is covered under the the Dual License and I
-      >     have the right under the Dual License to submit that work with
-      >     modifications, whether created in whole or in part by me, under
-      >     the Dual License (unless I am permitted to submit under
-      >     different licenses), as indicated in the file; or
+>     of my knowledge, is covered under the Dual License and I
+>     have the right under the Dual License to submit that work with
+>     modifications, whether created in whole or in part by me, under
+>     the Dual License (unless I am permitted to submit under
+>     different licenses), as indicated in the file; or
 >
 >  3. The contribution was provided directly to me by some other
-      >     person who certified (1), (2) or (3) and I have not modified it.
+>     person who certified (1), (2) or (3) and I have not modified it.
 >
 >  4. I understand and agree that this project and the contribution
-      >     are public and that a record of the contribution (including all
-      >     personal information I submit with it, including my sign-off) is
-      >     maintained indefinitely and may be redistributed consistent with
-      >     this project or the open source license(s) involved.
+>     are public and that a record of the contribution (including all
+>     personal information I submit with it, including my sign-off) is
+>     maintained indefinitely and may be redistributed consistent with
+>     this project or the open source license(s) involved.
 
 If you agree, you just add a line saying:
 
