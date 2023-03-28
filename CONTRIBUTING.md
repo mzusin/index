@@ -9,8 +9,8 @@ sign-off your patch as an indication of agreement.
 > By making a contribution to this project, I certify that:
 >
 >  1. The contribution was created in whole or in part by me and I
-      >     have the right to submit it under the Dual License of the GPLv3
-      >     and the commercial license described at https://github.com/mzusin/index/blob/main/LICENSE.md#commercial-license; or
+>     have the right to submit it under the Dual License of the GPLv3
+>     and the commercial license described at https://github.com/mzusin/index/blob/main/LICENSE.md#commercial-license; or
 >
 >  2. The contribution is based upon previous work that, to the best
 >     of my knowledge, is covered under the Dual License and I
