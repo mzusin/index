@@ -41,13 +41,9 @@ The commercial license should be used to create commercial products and applicat
 
 8. You can’t re-distribute the Item as stock, in a tool or template, or with source files. You can’t do this with an Item either on its own or bundled with other items, and even if you modify the Item. You can’t re-distribute or make available the Item as-is or with superficial modifications.
 
-9. You can’t use the Item in any application allowing an end user to customise a digital or physical product to their specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the Item in this way only if you purchase a separate license for each final product incorporating the Item that is created using the application.
+9. You can’t use the Item in any application allowing an end user to customise a digital or physical product to their specific needs, such as an “on demand”, “made to order” or “build it yourself” application. You can use the Item in this way only if you purchase a separate license for each final product incorporating the Item that is created using the application. Examples of “on demand”, “made to order” or “build it yourself” applications: website builders, “create your own” slideshow apps, and e-card generators. You will need one license for each product created by a customer.
 
-Examples of “on demand”, “made to order” or “build it yourself” applications: website builders, “create your own” slideshow apps, and e-card generators. You will need one license for each product created by a customer.
-
-10. Although you can modify the Item and therefore delete components before creating your single End Product, you can’t extract and use a single component of an Item on a stand-alone basis.
-
-For example: You license a game starter kit. You can delete unwanted 3D models from the file. But you can’t extract and use a 3D model outside of the game starter kit.
+10. Although you can modify the Item and therefore delete components before creating your single End Product, you can’t extract and use a single component of an Item on a stand-alone basis. For example: You license a game starter kit. You can delete unwanted 3D models from the file. But you can’t extract and use a 3D model outside of the game starter kit.
 
 11. You must not permit an end user of the End Product to extract the Item and use it separately from the End Product.
 
