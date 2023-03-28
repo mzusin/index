@@ -28,7 +28,8 @@ sign-off your patch as an indication of agreement.
 >     maintained indefinitely and may be redistributed consistent with
 >     this project or the open source license(s) involved.
 
-[Contributor License Agreement](https://gist.github.com/mzusin/6feecccf5abf8deb3c67dd78fab54e09)
+Please read the [Contributor License Agreement](https://gist.github.com/mzusin/6feecccf5abf8deb3c67dd78fab54e09)
+
 -------------------------------------------------------------------
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
