@@ -28,21 +28,7 @@ sign-off your patch as an indication of agreement.
 >     maintained indefinitely and may be redistributed consistent with
 >     this project or the open source license(s) involved.
 
-If you agree, you just add a line saying:
-
-```
-Signed-off-by: Random Developer <random@developer.example.org>
-```
-
-using your real name (sorry, no pseudonyms or anonymous contributions.)
-This will be done for you automatically if you use ``git commit -s``.
-Reverts should also include "Signed-off-by". ``git revert -s`` does that
-for you.
-
-We assume that any contribution that's 10 lines or less does not meet
-the threshold of originality and therefore copyright does not apply.
-You don't need to add a "Signed-off-by" line to such small patches.
-
+[Contributor License Agreement](https://gist.github.com/mzusin/6feecccf5abf8deb3c67dd78fab54e09)
 -------------------------------------------------------------------
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
